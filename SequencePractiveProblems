@@ -1,0 +1,25 @@
+//Sequence Practice Problems
+//1.
+// let x=Math.floor(Math.random()*10);
+// console.log(x);
+
+//2.
+// let y=Math.floor(Math.random()*6)+1;
+// console.log(y);
+
+//3.
+// let z=Math.floor(Math.random()*10);
+// let v=Math.floor(Math.random()*10);
+// let u=z+v;
+// console.log(u);
+
+//4.
+// let a=Math.floor(Math.random()*99)+10;
+// let b=Math.floor(Math.random()*99)+10;
+// let c=Math.floor(Math.random()*99)+10;
+// let d=Math.floor(Math.random()*99)+10;
+// let e=Math.floor(Math.random()*99)+10;
+// let sum=a+b+c+d+e;
+// let avg=(a+b+c+d+e)/5;
+// console.log(sum);
+// console.log(avg);
